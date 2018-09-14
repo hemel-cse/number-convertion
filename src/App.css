@@ -25,3 +25,7 @@
 .input:after {
   padding-bottom: 10px;
 }
+
+.ant-row {
+  margin-right: 0px;
+}
